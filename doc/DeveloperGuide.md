@@ -108,6 +108,11 @@ Use case ends.
 2. Should be able to hold up to 1000 persons.
 3. Should come with automated unit tests and open source code.
 4. Should favor DOS style commands over Unix-style commands.
+5. Should have a login system to protect the information.
+6. Should be able to launch application within 8 seconds.
+7. Should be able to perform add or delete function within a second.
+8. Should have a cloud system to backup data in case local data is not found or corrupted.
+9. Should be user-friendly.
 
 ## Appendix D : Glossary
 
