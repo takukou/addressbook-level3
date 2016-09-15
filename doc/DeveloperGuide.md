@@ -93,7 +93,8 @@ Use case ends.
 
 2a. The list is empty
 
-> Use case ends
+> Display message saying the list is empty
+  Use case ends
 
 3a. Invalid tag name
 
@@ -103,6 +104,10 @@ Use case ends.
 5a. User cancels changes
 
 > Use case resumes at step 2.
+
+6a. AddressBook shows a list of tags with the updated
+
+> Use case ends
 
 ## Appendix C : Non Functional Requirements
 
