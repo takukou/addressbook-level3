@@ -47,6 +47,8 @@ Priority | As a ... | I want to ... | So that I can...
 `* * *` | user | find a person by name | locate details of persons without having to go through the entire list
 `* * *` | user | edit a person's information | change their details without deleting and recreating
 `* *` | user | hide [private contact details](#private-contact-detail) by default | minimize chance of someone else seeing them by accident
+`* *` | user | password-protect my contacts | prevent unauthorized access in case of theft and/or hacking
+`* *` | user | have a cloud-based back-up system | retain my data in case of missing file or file corruption
 `*` | user with many persons in the address book | sort persons by name | locate a person easily
 
 
@@ -108,11 +110,9 @@ Use case ends.
 2. Should be able to hold up to 1000 persons.
 3. Should come with automated unit tests and open source code.
 4. Should favor DOS style commands over Unix-style commands.
-5. Should have a login system to protect the information.
-6. Should be able to launch application within 8 seconds.
-7. Should be able to perform add or delete function within a second.
-8. Should have a cloud system to backup data in case local data is not found or corrupted.
-9. Should be user-friendly.
+5. Should be able to launch application within 8 seconds.
+6. Should be able to perform add or delete function within a second.
+7. Should be user-friendly.
 
 ## Appendix D : Glossary
 
