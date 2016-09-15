@@ -117,7 +117,7 @@ Use case ends.
 4. Should favor DOS style commands over Unix-style commands.
 5. Should be able to launch application within 8 seconds.
 6. Should be able to perform add or delete function within a second.
-7. Should be user-friendly.
+7. Should be user-friendly: software and functions should be easy to navigate to and usage should be intuitive.
 
 ## Appendix D : Glossary
 
